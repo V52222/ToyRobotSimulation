@@ -19,7 +19,7 @@ Ensure you have Node.js and npm installed on your machine.
 
 ```bash
 git clone https://github.com/V52222/toy-robot123.git
-cd toy-robot/web/app
+cd web/app
 npm install
 
 Certainly! Here's the complete README file for you to copy into your project:
@@ -91,7 +91,7 @@ Audit Dependencies:
 bash
 Copy code
 git clone https://github.com/your-username/toy-robot-simulation.git
-cd toy-robot/web/app
+cd web/app
 npm audit
 This command checks the project's dependencies for known security vulnerabilities by analyzing the npm package tree. Regularly auditing dependencies helps ensure that the application remains secure and protected against potential security threats arising from vulnerable dependencies.
 
