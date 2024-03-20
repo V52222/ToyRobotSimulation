@@ -18,7 +18,7 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/V52222/toy-robot123.git
+git clone https://github.com/V52222/ToyRobotSimulation.git
 cd web/app
 npm install
 
